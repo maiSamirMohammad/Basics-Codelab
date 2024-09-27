@@ -1,6 +1,6 @@
 # Basics Codelab
 (Google codelab)
-An app with an onboarding screen, and a list of animated expanding items.
+An android app with an onboarding screen, and a list of animated expanding items.
 ## It Helps you learn:
 - Fundamentals of declarative UI
 - state
